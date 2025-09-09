@@ -4,11 +4,11 @@
 
 #### An interdisciplinary inquiry into epistemic trust, subjugated silence, and fiduciary authority across knowledge, culture, and power.
 
-![alt text](https://github.com/Peter-Kahl/The-Silent-Shadows/blob/main/cave_of_shadows.jpg?raw=true)
-
 by Peter Kahl, 1 September 2025
 
----
+DOI: 10.13140/RG.2.2.13579.96808
+
+![alt text](https://github.com/Peter-Kahl/The-Silent-Shadows/blob/main/cave_of_shadows.jpg?raw=true)
 
 ### Abstract
 
@@ -27,7 +27,7 @@ Plato’s Cave, epistemic clientelism, substitutive visibility, testimonial inju
 ### Cite this work:
 
 ```
-Peter Kahl, The Silent Shadows: Epistemic Clientelism and Plato’s Cave (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/The-Silent-Shadows>
+Peter Kahl, The Silent Shadows: Epistemic Clientelism and Plato’s Cave (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/The-Silent-Shadows> DOI: 10.13140/RG.2.2.13579.96808
 ```
 
 ### Publisher & Licence
