@@ -14,7 +14,7 @@ Plato’s allegory of the cave is often read as a fable of ignorance and enlight
 
 ## Working Paper Status
 
-This paper forms part of a wider research programme on fiduciary-epistemic governance and will be integrated into my forthcoming monograph _Beyond Epistemic Clientelism_. Readers are welcome to cite it, but please note that revisions are likely as the material is incorporated into the book project.
+This manuscript is circulated as a working paper in advance of formal submission. Draft chapters are complete and under active revision. Citations have been integrated but remain provisional; feedback is invited on clarity, coverage, and cross-disciplinary relevance.
 
 ## Keywords
 
