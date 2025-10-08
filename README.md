@@ -12,13 +12,13 @@ by Peter Kahl, 1 September 2025
 
 Plato’s allegory of the cave is often read as a fable of ignorance and enlightenment: the shadows symbolise illusion, the ascent symbolises education, and the sun symbolises truth. This essay reinterprets the allegory through the lens of _Epistemic Clientelism Theory_ (ECT). The shadows are not mere mistakes but _substitutive visibilities_—authorised appearances that function as currency in a clientelist epistemic economy. The prisoners’ assent to shadows illustrates autonomy traded for recognition, while the freed prisoner’s return stages _testimonial injustice_ as his knowledge is ridiculed and silenced. Drawing on social psychology, political epistemology, and fiduciary theory, I argue that the cave models the fragility of epistemic agency and the political risks of dissent. Yet the allegory also intimates another path: fiduciary authority, bound by duties of loyalty, care, and openness, can dignify dependence without collapsing into clientelism. Reframed this way, Plato’s cave becomes a parable of epistemic stewardship—transforming silence into recognition, and shadows into invitations to openness.
 
-## Working Paper Status
-
-This manuscript is circulated as a working paper in advance of formal submission. Draft chapters are complete and under active revision. Citations have been integrated but remain provisional; feedback is invited on clarity, coverage, and cross-disciplinary relevance.
-
 ## Keywords
 
 Plato’s Cave, epistemic clientelism, substitutive visibility, testimonial injustice, fiduciary authority, epistemic trust, silence, authoritarianism, epistemic agency, higher education
+
+## Working Paper Status
+
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
 ## Download
 
